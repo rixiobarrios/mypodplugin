@@ -12,8 +12,7 @@
 As a system, I want a custom view plugin that displays the text “Hello World” so that the world knows I am here.
 
 - Step 1 - Go to Business Application Studio (BAS)
-
-https://dmc-az-cons-training.eu20cf.applicationstudio.cloud.sap/index.html
+[Your Business Application Studio environment](https://dmc-az-cons-training.eu20cf.applicationstudio.cloud.sap/index.html)
 
 - Step 2 - Enter a new Dev Space
 e.g MyPodPlugin
@@ -117,13 +116,12 @@ e.g. Digital Manufacturing Cloud Internal tenants_DMC-AZ-CONS-training
 e.g. DMC_DEV
 
 - Step 39 - Grab generated link
-e.g. Application "mypodplugin" started and available at "digital-manufacturing-cloud-internal-tenants-dmc-az-con4ff90ebf.cfapps.eu20.hana.ondemand.com"
+e.g. Application "mypodplugin" started and available at "digital-manufacturing-cloud-internal-tenants-dmc-az-***********.******.eu20.hana.ondemand.com"
 
 - Step 40 - Press any key to close process after finished
 
 - Step 41 - Add to servide registry app in DMC (Digital Manufacturing Cloud)
-
-https://dmc-az-cons-training.test.execution.eu20.dmc.cloud.sap/cp.portal/site?sap-language=en#Shell-home
+[Your Digital Manufacturing Cluod Tenant](https://dmc-az-cons-training.test.execution.eu20.dmc.cloud.sap/cp.portal/site?sap-language=en#Shell-home)
 
 - Step 42 - Go onto Manage Service Registry
 
