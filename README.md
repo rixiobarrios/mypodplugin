@@ -1,21 +1,26 @@
 #DMC UX UI5 BAS UC
 
 - Video tutorial[no sound] (2022)
+
 https://video.sap.com/media/t/1_w70n5iet
 
 - Blog tutorial by Kevin Hunter (2022)
+
 https://blogs.sap.com/2022/04/11/building-a-custom-digital-manufacturing-cloud-pod-plugin-the-easy-way/
 
 - SAP repository on github
+
 https://github.com/SAP-samples/digital-manufacturing-extension-samples/blob/main/dm-podplugin-extensions/ExecutionPodPluginTemplate_and_Example/documentation/InstallationAndConfigurationGuide.pdf
 
 - Help Portal
+
 https://help.sap.com/docs/sap-digital-manufacturing/pod-plugin-developer-s-guide/creating-and-deploying-custom-pod-plugins?q=dmc%20host%20name
 
 ##1. UX Use-Case-01: View Plug-in – Display Text (1W)
 As a system, I want a custom view plugin that displays the text “Hello World” so that the world knows I am here.
 
 Step 1 - Go to Business Application Studio (BAS)
+
 https://dmc-az-cons-training.eu20cf.applicationstudio.cloud.sap/index.html
 
 Step 2 - Enter a new Dev Space
@@ -125,6 +130,7 @@ e.g. Application "mypodplugin" started and available at "digital-manufacturing-c
 Step 40 - Press any key to close process after finished
 
 Step 41 - Add to servide registry app in DMC (Digital Manufacturing Cloud)
+
 https://dmc-az-cons-training.test.execution.eu20.dmc.cloud.sap/cp.portal/site?sap-language=en#Shell-home
 
 Step 42 - Go onto Manage Service Registry
