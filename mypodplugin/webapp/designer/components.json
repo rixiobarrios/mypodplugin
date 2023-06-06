@@ -1,0 +1,15 @@
+{
+	"components": [
+		{
+			"id": "mypodplugin",
+			"type": "VIEW_PLUGIN",
+			"allowMultipleInstances": false,
+			"name": "sap.custom.plugin.mypodplugin.mypodplugin.mypodplugin",
+			"propertyEditor": "sap.custom.plugin.mypodplugin.mypodplugin.mypodplugin.builder.PropertyEditor",
+			"i18n": "sap.custom.plugin.mypodplugin.mypodplugin.mypodplugin.i18n.i18n",
+            "productionProcessEnabled": true,
+           "productionProcessTitle": "mypodplugin",
+			"supportedPodTypes": ["WORK_CENTER","OPERATION","ORDER","OTHER","MONITOR"]
+		}   
+	]
+}
