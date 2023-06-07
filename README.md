@@ -123,7 +123,7 @@ e.g. Application "mypodplugin" started and available at "digital-manufacturing-c
 
 - Step 41 - Add to servide registry app in DMC (Digital Manufacturing Cloud)
 
-[Your Digital Manufacturing Cluod Tenant](https://dmc-az-cons-training.test.execution.eu20.dmc.cloud.sap/cp.portal/site?sap-language=en#Shell-home)
+[Your Digital Manufacturing Cloud Tenant](https://dmc-az-cons-training.test.execution.eu20.dmc.cloud.sap/cp.portal/site?sap-language=en#Shell-home)
 
 - Step 42 - Go onto Manage Service Registry
 
